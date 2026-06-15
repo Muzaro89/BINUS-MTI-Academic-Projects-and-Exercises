@@ -1,0 +1,1 @@
+These other files are other exercise i've done to simulate analysis and make dashboards using public datasets and other data given from lecturers. I just wanted to show other works that i've done using PowerBI
