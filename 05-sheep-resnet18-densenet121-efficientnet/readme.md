@@ -4,7 +4,6 @@ This repository contains the implementation and comparative analysis of three pr
 
 Unlike previous sheep classification project leveraging deeper networks, this study explores lighter, highly efficient architectural variations optimized for resource-constrained environments while dealing with highly subtle inter-class visual similarities in livestock data.
 
-dataset: https://images.cv/dataset/sheep-image-classification-dataset
 
 ---
 
