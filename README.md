@@ -17,5 +17,5 @@ This repository serves as a centralized hub for various academic assignments, si
 * **Description:** A comprehensive IT audit toolkit, checklist, and risk assessment guidelines tailored for Healthcare Information Systems.
 
 ### 4. AWS Webserver & DBServer
-* **Directory:** `04-aws-server/`
+* **Directory:** `04-aws-server-ec2wordpress/`
 * **Description:**PDF report on me doing Wordpress instalation on AWS EC2.
