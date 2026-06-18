@@ -1,0 +1,19 @@
+In this file i make steps to install wordpress in AWS EC2, by making 2 instances of EC2 server for web server and database server
+- Web server
+    - AMI: Amazon Linux 2
+    - t2micro
+    - keypair: rsa; .pem
+    - make sure vpc and subnet is same 
+- Database Server
+    - AMI: Amazon Linux 2
+    - t2micro
+    - keypair: rsa; .pem
+    - same vpc and subnet as web server
+- make sure 2 instance are running at the same time
+- take both public ip and private ip from both instance, pick db server, use aws connect
+- install mariaDB
+- setup webserver
+- install apache and php
+- load wordpress, configure, restart apache
+- server testing, login
+- more in pdf files
