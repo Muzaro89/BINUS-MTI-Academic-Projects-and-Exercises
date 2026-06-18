@@ -15,3 +15,7 @@ This repository serves as a centralized hub for various academic assignments, si
 ### 3. IT Governance: Hospital Information System IT Audit
 * **Directory:** `03-hospital-it-audit/`
 * **Description:** A comprehensive IT audit toolkit, checklist, and risk assessment guidelines tailored for Healthcare Information Systems.
+
+### 4. AWS Webserver & DBServer
+* **Directory:** `04-aws-server/`
+* **Description:**PDF report on me doing Wordpress instalation on AWS EC2.
